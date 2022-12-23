@@ -3,7 +3,7 @@
 // Created by: Nathan Araujo
 // Created on: December 16 2022
 // This program generates 10 random
-// numbers and display the lowest
+// numbers and display the lowest to the user
 
 #include <time.h>
 #include <array>
